@@ -61,4 +61,12 @@ Para uma velocidade inicial de `20 m/s`, um ângulo de `45 graus`, e uma altura 
 
 Você pode ajustar os parâmetros padrão e o comportamento do simulador editando o código Python conforme necessário. O coeficiente de resistência do ar e a massa do objeto são exemplos de valores que podem ser alterados.
 
+#### Felipe Parreiras
+<div style="display: inline-block;">
+<a href="https://t.me/fparreiras">
+<img align="center" height="20px" width="90px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
+</a>
 
+<a href="https://www.linkedin.com/in/felipe-parreiras-56b075277/">
+<img align="center" height="20px" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>

@@ -28,7 +28,7 @@ def simulador_lancamento_obliquo(velocidade_inicial, angulo, altura_inicial, gra
 
         # Atualizando as velocidades com ou sem resistência do ar
         velocidade_x = velocidades_x[-1] * (1 - coef_resistencia_ar * dt)
-        velocidade_y = velocidades_y[-1] - gravidade * dt - coef_resistencia_ar * velocidades_y[-1] * dt
+        velocidade_y = velocidades_y[-1] - gravidade * dt
 
         # Atualizando a posição
         x = posicao_x[-1] + velocidade_x * dt
